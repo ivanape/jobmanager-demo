@@ -12,8 +12,7 @@ func init() {
 }
 
 func main() {
-	job := jobmanager.NewJob()
-	err := job.Do(func() {
+	job, err := jobmanager.NewJob(func() {
 		fmt.Println("Hello world!")
 	})
 	if err != nil {
@@ -22,7 +21,10 @@ func main() {
 
 	jobManager.RunJobAndWait(job)
 
-	job2, err := jobManager.RunAndWait(func() { fmt.Printf("Hello world!") })
+	job2, err := jobManager.RunAndWait(func() { fmt.Println("Hello world!") })
+
+	jobManager.RunJobsInSequence(job, job2)
+	jobManager.RunJobsInParallel(job, job2)
 
 	fmt.Println(job2.Status)
 }
