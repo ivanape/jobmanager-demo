@@ -11,6 +11,16 @@ github.com/ivanape/jobmanager v0.0.0-20210110085415-3a38e5bdd0bc h1:PTSrKzbJS59I
 github.com/ivanape/jobmanager v0.0.0-20210110085415-3a38e5bdd0bc/go.mod h1:lyIQIw/sHj9GUTA9yM3H2gLhf7JTvesOYmB2yj4b8Mk=
 github.com/ivanape/jobmanager v0.0.0-20210110095018-3d8d56a6c333 h1:Yz5w4o5LPygOb961I/zU/m6Lho8SHG2cKa/QXcSMv8U=
 github.com/ivanape/jobmanager v0.0.0-20210110095018-3d8d56a6c333/go.mod h1:lyIQIw/sHj9GUTA9yM3H2gLhf7JTvesOYmB2yj4b8Mk=
+github.com/ivanape/jobmanager v0.0.0-20210111101333-b994a54a407e h1:clhysJfnpzfs4VcupXJUBUqcR011F6WANCA8+IkWqLQ=
+github.com/ivanape/jobmanager v0.0.0-20210111101333-b994a54a407e/go.mod h1:lyIQIw/sHj9GUTA9yM3H2gLhf7JTvesOYmB2yj4b8Mk=
+github.com/ivanape/jobmanager v0.0.0-20210111102629-432e9d798630 h1:sLpr8lb/4w5rv0618kMDHpKgttaz4KuSQc+UqjMN6DU=
+github.com/ivanape/jobmanager v0.0.0-20210111102629-432e9d798630/go.mod h1:lyIQIw/sHj9GUTA9yM3H2gLhf7JTvesOYmB2yj4b8Mk=
+github.com/ivanape/jobmanager v0.0.0-20210111102817-1006109faa36 h1:g//d17o7oKXeyS8T8FQxCpe4u9i86AGDnt9u+EobTHo=
+github.com/ivanape/jobmanager v0.0.0-20210111102817-1006109faa36/go.mod h1:lyIQIw/sHj9GUTA9yM3H2gLhf7JTvesOYmB2yj4b8Mk=
+github.com/ivanape/jobmanager v0.0.0-20210111104108-068b5382bb4a h1:ayCsApaVfhR21Fn/P0tYl4Kv9wP7cesNM7feGMbUGaY=
+github.com/ivanape/jobmanager v0.0.0-20210111104108-068b5382bb4a/go.mod h1:lyIQIw/sHj9GUTA9yM3H2gLhf7JTvesOYmB2yj4b8Mk=
+github.com/ivanape/jobmanager v0.0.0-20210111110317-9c366ee09c2f h1:fY6h0IXa7bdKHOzidZj3yx/QgIF5rAZ9FF3GN2ZQVuI=
+github.com/ivanape/jobmanager v0.0.0-20210111110317-9c366ee09c2f/go.mod h1:lyIQIw/sHj9GUTA9yM3H2gLhf7JTvesOYmB2yj4b8Mk=
 github.com/kr/pretty v0.2.1 h1:Fmg33tUaq4/8ym9TJN1x7sLJnHVwhP33CNkpYV/7rwI=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
